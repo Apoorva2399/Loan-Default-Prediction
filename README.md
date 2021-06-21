@@ -12,7 +12,7 @@ Defaulting on a loan will cause a substantial and lasting drop in the debtor's c
 * EDA: In in this part, we do some exploratory data analysis (EDA) on the features selected in part-1 and 2 to see the trend.
 * Create a model: Finally, In this last but not the last part, we create models. Creating a model is also not an easy task. It’s also an iterative process. we show how to start with a with a simple model, then slowly add complexity for better performance.
 
-### Model Summary:
+### Model Summary :
 * Developed an XGBoost binary classifier to predict whether a customer will default on a loan and achieved the AUPRC scores of 92% and 88% on test data respectively.
 * Basic data inspection by Exploratory Data Analysis using Matplotlib and Seaborn giving an in-depth intuition to the important features of our dataset.
 * Missing value imputation using KNN-Imputer, implemented SMOTE boosting, and carried out hyperparameter tuning using Bayesian optimization.
